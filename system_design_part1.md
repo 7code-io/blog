@@ -10,26 +10,18 @@
 
 [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
 
-Harvest, Yield, and Scalable Tolerant Systems
-https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf
+[Harvest, Yield, and Scalable Tolerant Systems](https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf)
 
-MapReduce: Simplified Data Processing on Large Clusters
-https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+[MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
-Dapper, a Large-Scale Distributed Systems Tracing Infrastructure
-https://static.googleusercontent.com/media/research.google.com/en//archive/papers/dapper-2010-1.pdf
+[Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://static.googleusercontent.com/media/research.google.com/en//archive/papers/dapper-2010-1.pdf)
 
-Kafka: a Distributed Messaging System for Log Processing
-http://notes.stephenholiday.com/Kafka.pdf
+[Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 
-Wormhole: Reliable Pub-Sub to Support Geo-replicated Internet Services
-https://scontent.fykz1-2.fna.fbcdn.net/v/t39.8562-6/240808963_4269789976422185_8187177518301086286_n.pdf?_nc_cat=107&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=nmTZt3BTo8YAX-rFWxc&_nc_ht=scontent.fykz1-2.fna&oh=00_AT8_zvJCFEOp6m3EC8LVCOPXp7_Ux-dBwWgxjzDblZMuFw&oe=61E5C7AF
+[Wormhole: Reliable Pub-Sub to Support Geo-replicated Internet Services](https://scontent.fykz1-2.fna.fbcdn.net/v/t39.8562-6/240808963_4269789976422185_8187177518301086286_n.pdf?_nc_cat=107&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=nmTZt3BTo8YAX-rFWxc&_nc_ht=scontent.fykz1-2.fna&oh=00_AT8_zvJCFEOp6m3EC8LVCOPXp7_Ux-dBwWgxjzDblZMuFw&oe=61E5C7AF)
 
-Borg, Omega, and Kubernetes
-https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf
+[Borg, Omega, and Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
 
-Large-scale cluster management at Google with Borg
-https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf
+[Large-scale cluster management at Google with Borg](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
 
-Omega: flexible, scalable schedulers for large compute clusters
-https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf
+[Omega: flexible, scalable schedulers for large compute clusters](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf)
