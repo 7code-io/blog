@@ -6,11 +6,9 @@
 
 [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 
-On Designing and Deploying Internet-Scale Services
-https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton.pdf
+[On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton.pdf)
 
-CAP Twelve Years Later: How the "Rules" Have Changed
-https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+[CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
 
 Harvest, Yield, and Scalable Tolerant Systems
 https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf
