@@ -1,6 +1,8 @@
-# 提升 System Design 功底的 Paper - 上
+# System Design 进阶干货（上）
 
-大部分都是非常经典的论文，大家可以通过这些内容沉淀系统设计的知识。我个人会推荐大家在读完 DDIA 这本书后再来读这些。我之前读的时候还没有 DDIA 这本书，后面看书的时候，发现还蛮多里面引用的 paper 和我之前看的高度重合。DDIA 里面的总结和归纳都很不错，适合先作为入门。
+**长期更新：2022-01-14**
+
+大部分都是非常经典的论文，大家可以通过这些内容沉淀系统设计的知识。我个人会推荐大家在读完 DDIA 这本书后再来读这些。
 
 [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
